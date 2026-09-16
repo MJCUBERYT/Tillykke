@@ -1,4 +1,11 @@
-  p {
-  backround-color: red;
-  font-size: 25px;
+/* Write code below 💖 */
+ul > li {
+  border: 1px solid;
+  width: 200px;
+  background-color: lightgreen
+}
+ol > li {
+  border: 1px solid;
+  width: 200px;
+  background-color: skyblue
 }
