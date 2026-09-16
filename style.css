@@ -2,8 +2,8 @@ body {
     background: linear-gradient(skyblue pink)
 }
 h1 {
-    color:red;
     text-align: center;
+    color:pink;
 }
 p {
     text-align: center;
