@@ -1,11 +1,26 @@
-/* Write code below 💖 */
-ul > li {
-  border: 1px solid;
-  width: 200px;
-  background-color: lightgreen
+body {
+  background: linear-gradient(skyblue, green);
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  width: 100%;
 }
-ol > li {
-  border: 1px solid;
-  width: 200px;
-  background-color: skyblue
+
+main, header, footer {
+  width: 70%;
+  margin: auto;
+}
+
+header, footer {
+  text-align: center;
+}
+
+header > img {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+#night-2 {
+  text-align: right;
 }
