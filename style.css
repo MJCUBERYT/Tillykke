@@ -1,11 +1,16 @@
 body {
-    background: linear-gradient(skyblue pink)
+    background: linear-gradient(skyblue, pink)
 }
 h1 {
+    color:navy;
     text-align: center;
-    color:pink;
 }
 p {
     text-align: center;
-    color:pink;
+    color:navy;
+}
+img {
+    display: block;
+    width: 50%;
+    margin: auto;
 }
